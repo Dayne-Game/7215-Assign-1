@@ -40,7 +40,7 @@ Once you're inside the **Wordpress-Demo** folder via terminal type in the comman
 Here is a Video showing how to acquir and install a theme in Wordpress!
 
 <video width="650" height="340" controls>
-  <source src="theme.mp4" type="video/mp4">
+  <source src="theme.mov" type="video/mov">
 </video>
 
 In order to acquir a theme to install in Wordpress you will need to be in the admin section of your Wordpress website
