@@ -48,14 +48,38 @@ To change the theme of your Wordpress website you will need to be in the admin s
 
 When you are in the admin side (Dashboard) of your Wordpress website, you want to click on the word **Appearance** on the left sidebar at about halfway down from the top.
 
-When you click on **Appearance** a new page will load (show) that by default will display the themes section, where you can change your theme.
+When you click on **Appearance** a new page will load (show) by default will display the themes section, where you can change your theme.
 
 <img src="Theme-Example.png" alt="Themes Section Example">
 
 In this Theme's Section you can add new themes, which allows you to search through Wordpress database for free and or paid themes that you can build your site on.
 
-To change your current theme you just need to section the one you want to change to and click **Activate** its that easy!
+To change your current theme you just need to select the one you want to change to and click **Activate** its that easy!
 
 ## Adding / Installing a Plug-in
 
-Installing a plugin is pretty much the same process that you do fro installing a theme in Wordpress.
+Installing a plugin is pretty much the same process that you do for installing a theme in Wordpress.
+
+First of all make sure that your are in the admin side of your Wordpress website, and click on the button on the left navigation bar called **Plugins**.
+
+<img src="Plugin-Image.png" alt="Plugin Image 1">
+
+You see the list of your currently installed plugins. To add a new Plugin in click on the **Add New** button that takes you to another screen that allows your to browse different plugins that you can install. You can also upload a plugin thats is a .zip file to Wordpress.
+
+<img src="Plugin-2.png" alt="Plugin Image 2">
+
+## How to Produce a Simple Site
+
+Heres a Video of a Quick CUstomization of the Header and Top Menu Bar!
+
+<video width="650" height="340" controls>
+  <source src="Quick-Customize.mov" type="video/mov">
+</video>
+
+Well with Wordpress its all pretty much Drag 'n Drop, so creating a website in Wordpress isn't a difficult task.
+
+To create a Wordpress site, you will need to be in the admin side of your Wordpress website, so you can have access to all of your customization tools. The first thing you do is aquire and install a theme, than from there just start editing the content. All the content on the website from text, images etc. are all pretty much editable. If you want to edit the header for example click on the pencil icon next to the header or the actual header its self and you can chnage its content, you can do that will all the content sections on the website and you can even drag new objects to the website to make it more suited for you.
+
+Creating a Wordpress website isn't a hard task, you don't need to program anything, you can just click, and drag content to where you want it!
+
+## Backend Technologies
