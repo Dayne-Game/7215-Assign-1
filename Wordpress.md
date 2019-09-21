@@ -1,6 +1,8 @@
-## Wordpress
-
-Wordpress was born from the desire for an elegant, well-architectured personal publishing system
+| [Client Server Computing](CSC.md) |
+[Content Management Systems](CMS.md) |
+[CMS Comparison](CMSComp.md) |
+[Evaluation and Recommendation](EAR.md) |
+[References](References.md) |
 
 # CMS Installation
 
@@ -18,7 +20,7 @@ I'll be using the term **Terminal** this is to either reference Git Bash for Win
 
 ### Installation Process
 
-**_Note:_** _This process is far easier on a Apple Computer running macOS. Its actually better if you through your Windows PC away and buy a Mac!_
+**_Note:_** _This process is far easier on a Apple Computer running macOS. Its actually better if you throw your Windows PC away and buy a Mac!_
 
 Go to https://github.com/Dayne-Game/Wordpress-Demo and fork the respository.
 
