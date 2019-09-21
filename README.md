@@ -1,3 +1,5 @@
+[a relative link](References.md)
+
 # Content Management Systems
 
 # CMS Comparison
@@ -73,7 +75,7 @@ You see the list of your currently installed plugins. To add a new Plugin in cli
 Heres a Video of a Quick CUstomization of the Header and Top Menu Bar!
 
 <video width="650" height="340" controls>
-  <source src="Quick-Customize.mov" type="video/mov">
+  <source src="Quick-Customize.mp4" type="video/mp4">
 </video>
 
 Well with Wordpress its all pretty much Drag 'n Drop, so creating a website in Wordpress isn't a difficult task.
@@ -83,3 +85,5 @@ To create a Wordpress site, you will need to be in the admin side of your Wordpr
 Creating a Wordpress website isn't a hard task, you don't need to program anything, you can just click, and drag content to where you want it!
 
 ## Backend Technologies
+
+Wordpress uses the LAMP Stack (Linux, Apache, MYSQL, PHP), WAMP (Windows, Apache, MYSQL, PHP), or MAMP Stack (My Apache, MYSQL, PHP for OS X and Windows). Wordpress uses MYSQL as its Database Management System, Linux or Windows at its operating system (for server), with Apache or My Apache as its web service and PHP as its backend language.
