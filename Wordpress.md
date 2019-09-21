@@ -4,7 +4,7 @@
 [Evaluation and Recommendation](EAR.md) |
 [References](References.md) |
 
-# CMS Installation
+# Wordpress
 
 ### Pre-Setup
 
